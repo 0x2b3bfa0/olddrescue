@@ -1,4 +1,4 @@
-# ddrescue 2.4
+# olddrescue
 
 A ddrescue static binary that runs on 2.4 kernel.
 

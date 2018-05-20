@@ -8,7 +8,7 @@ A ddrescue static binary that runs on 2.4 kernel.
 
 Simply use `dd` and a USB to IDE adapter...
 
-> Unfortunately, I have a very old IDE disk that is not supported by the adapter and it doesn't works.
+> Unfortunately, I have a very old IDE disk that is not supported by the adapter.
 
 Burn `dsl-n-01RC4.iso` on a CD and boot DSL-n from that ancient computer.
 Then use `dd` to copy the HDD into a USB drive or a CD.
